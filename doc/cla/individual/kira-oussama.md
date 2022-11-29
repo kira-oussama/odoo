@@ -1,4 +1,4 @@
-Algeria, 2021-10-08
+Algeria, 2021-11-29
 
 I hereby agree to the terms of the Odoo Individual Contributor License
 Agreement v1.0.
